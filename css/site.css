@@ -14,7 +14,6 @@
     color: #569dfa;
     font-family: 'Denk One', sans-serif;
     font-size: 88px;
-    margin: 0;
     -webkit-text-stroke: 1.3px white;
 
 }
@@ -30,7 +29,7 @@
 }
 
 .avatar {
-    margin-top: 33px;
+    margin-top: 88px;
     vertical-align: middle;
     max-width: 100%;
     border: 0px solid white;
