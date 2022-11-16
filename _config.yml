@@ -1,7 +1,7 @@
 title: xeb.ai
 email: xebxeb@gmail.com
 description: >- 
-  Training/deploying/running neural networks past my bedtime.
+  Training neural networks past my bedtime.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xeb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xeb
