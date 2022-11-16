@@ -17,7 +17,7 @@ Actually, let’s make this list more of my own wishlist for AI and AI-adjacent 
 <a href="https://www.amazon.com/Agency-William-Gibson/dp/110198693X">
 <img src="https://m.media-amazon.com/images/I/41vnz9typ+L._SY344_BO1,204,203,200_.jpg" width="20%"/>
 </a>
-<i><span class="ems">Eunice -- from <a href="https://www.amazon.com/Agency-William-Gibson/dp/110198693X">William Gibson's book Agency</a> -- is an excellent example<br/> of an Emissary (but albeit "unbound" to a human)</span></i>
+<i><span class="ems">Eunice -- from <a href="https://www.amazon.com/Agency-William-Gibson/dp/110198693X">William Gibson's book Agency</a> -- is an example of an Emissary (but albeit "unbound" to a human)</span></i>
 </div>
 
 </li>
