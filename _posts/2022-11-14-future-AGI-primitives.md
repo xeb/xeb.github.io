@@ -85,3 +85,9 @@ Example: a system needs to prompt a user to pick a new appointment date. Rather 
 <li><span class="em">Verifiable Robotics</span> — This is the penultimate for me. An action transformer turned into the physical universe. Truly multi-modal. Simulation can be like unit tests, but we need a primitive for integration tests. Huge warehouses where robots can be tested offsite and virutally. Perhaps they have simulated models of my home (that do not physically exist), but the robots themselves are real and have to "take a spin around the house" ensuring they work with other agents and systems deployed. 
 <img src="/img/DALL·E 2022-11-14 23.17.05 - a classroom full of robots each learning how to walk, with a human instructor cheering them on, photograph, ultra-realistic, 35mm, DSLR, TIME photogra.png" />
 </li>
+
+<!-- Event snippet for Page view conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-953427116/2B25CNOb-YkYEKzJ0MYD'});
+  </script>
+
