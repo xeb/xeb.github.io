@@ -1,5 +1,5 @@
 .inner {
-    max-width: calc(800px - (30px * 2));
+    max-width: calc(900px - (30px * 2));
     margin-right: auto;
     margin-left: auto;
 }
@@ -14,10 +14,11 @@
 }
 
 #project_title {
-    color: #569dfa;
-    font-family: 'Denk One', sans-serif;
-    font-size: 88px;
-    -webkit-text-stroke: 1.3px white;
+    color: 777; /* #569dfa; */
+    font-family: 'Noto Serif', serif;
+    font-size: 77px;
+    font-weight: bold;
+    -webkit-text-stroke: 1.1px white;
 
 }
 
@@ -32,16 +33,16 @@
 }
 
 .avatar {
-    margin-top: 88px;
+    margin-top: 26px;
     vertical-align: middle;
     max-width: 100%;
     border: 0px solid white;
     -webkit-border-radius: 1500px;
-    background: url(../img/avatar_blue.png) no-repeat;
+    background: url(../img/avatar_statue-min.png) no-repeat;
     background-position: top;
     background-size: contain;
-    width: 100px;
-    height: 100px;
+    width: 113px;
+    height: 113px;
 }
 
 a {

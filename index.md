@@ -5,7 +5,7 @@ type: landing
 
 <div class="home">
 <p>
-The following are various topics about software engineering, artificial intelligence, journal entries, and other technical findings. My hope is that the below content is useful or interesting to others. However, my expectation is to keep this blog for my own sake. Writing is thinking.
+The following are topics about my life, spirtuality, software engineering, artificial intelligence, accelerationism, journal entries, and other thoughts. I am writing this <a href="https://youtube.com/shorts/zlT_aPrf8KU?si=VSVS2QeiHz13eRWn">for me</a>.
 </p>
 <p>&nbsp;</p>
 <ul class="post-list">
